@@ -1,0 +1,9 @@
+[submodule "vim/bundle/neobundle.vim"]
+	path = vim/bundle/neobundle.vim
+	url = https://raw.githubusercontent.com/Shougo/neobundle.vim
+[submodule "tools/liquidprompt"]
+	path = tools/liquidprompt
+	url = https://github.com/nojhan/liquidprompt.git
+[submodule "tools/statpipe"]
+	path = tools/statpipe
+	url = https://github.com/auduny/statpipe
