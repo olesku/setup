@@ -20,7 +20,7 @@ if [ -f $HOME/setup/tools/liquidprompt/liquidprompt ]; then
     . $HOME/setup/tools/liquidprompt/liquidprompt
 fi
 
-export PATH=/opt/chef/bin:/opt/local/bin:/opt/local/sbin:$PATH:~/src/arcanist/bin/:$HOME/bin:$HOME/setup/bin
+export PATH=/usr/local/bin:/opt/chef/bin:/opt/local/bin:/opt/local/sbin:$PATH:~/src/arcanist/bin/:$HOME/bin:$HOME/setup/bin
 export EDITOR=vim
 export LANG=en_US.UTF-8
 
